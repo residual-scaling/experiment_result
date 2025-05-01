@@ -1,0 +1,1 @@
+在 teacher_model.py get_experience_question_state()中 没加上 []，导致结果
