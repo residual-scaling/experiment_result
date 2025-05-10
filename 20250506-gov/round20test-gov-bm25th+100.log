@@ -1,0 +1,61 @@
+
++++ round 0
+p_accurate_count 21
+e_accurate_count 21
++++ round 1
+p_accurate_count 20
+e_accurate_count 19
++++ round 2
+p_accurate_count 21
+e_accurate_count 19
++++ round 3
+p_accurate_count 21
+e_accurate_count 20
++++ round 4
+p_accurate_count 22
+e_accurate_count 21
++++ round 5
+p_accurate_count 17
+e_accurate_count 20
++++ round 6
+p_accurate_count 18
+e_accurate_count 22
++++ round 7
+p_accurate_count 21
+e_accurate_count 18
++++ round 8
+p_accurate_count 17
+e_accurate_count 18
++++ round 9
+p_accurate_count 19
+e_accurate_count 20
++++ round 10
+p_accurate_count 22
+e_accurate_count 18
++++ round 11
+p_accurate_count 19
+e_accurate_count 24
++++ round 12
+p_accurate_count 16
+e_accurate_count 18
++++ round 13
+p_accurate_count 19
+e_accurate_count 22
++++ round 14
+p_accurate_count 21
+e_accurate_count 22
++++ round 15
+p_accurate_count 18
+e_accurate_count 22
++++ round 16
+p_accurate_count 20
+e_accurate_count 20
++++ round 17
+p_accurate_count 19
+e_accurate_count 19
++++ round 18
+p_accurate_count 24
+e_accurate_count 23
++++ round 19
+p_accurate_count 21
+e_accurate_count 19
